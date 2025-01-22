@@ -1,0 +1,11 @@
+Ir na Pasta onde esta o arquivo
+Rodar o Comando
+
+docker-compose up -d
+
+
+verificar as instancias:
+
+http://localhost:5050
+
+
